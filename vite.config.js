@@ -4,5 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/sentence-autocompletion-research/", // <-- ADD THIS LINE
+  // This tells Vite the correct path for the live site's assets.
+  base: "/sentence-autocompletion-research/", 
 })

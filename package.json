@@ -1,5 +1,6 @@
 {
-  "name": "frontend",
+  "homepage": "https://Rakshit-Tayal.github.io/sentence-autocompletion-research",
+  "name": "frontend-for-sentence-auto-compltion",
   "private": true,
   "version": "0.0.0",
   "type": "module",
